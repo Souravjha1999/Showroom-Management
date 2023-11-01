@@ -6,7 +6,7 @@ An automobile showroom management system where a sales personnel of a showroom (
   
 ## Authors
 * **SOURAV KUMAR JHA**   - ((https://github.com/Souravjha1999))
-* **VIVEK KUMAR**  - (https://github.com/AhSaymon)
+* **VIVEK KUMAR**  - (https://github.com/Vnjvibhash)
 
 ### Prerequisites
 
