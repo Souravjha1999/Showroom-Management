@@ -5,9 +5,8 @@
 An automobile showroom management system where a sales personnel of a showroom (Ex-Manager) can do basic inventory CRUD operations on automobiles (Cars) and order with some extensible features such as billing form with proper authentication.
   
 ## Authors
-* **RAFID SHAHRIAR**   - [rafid211](https://github.com/rafid211)
-* **SAYMON,AKTHER HAMID**  - [AhSaymon](https://github.com/AhSaymon)
-* **SAKIB,AHMED SHAHRIAR**  - [ahmedshahriar](https://github.com/ahmedshahriar)
+* **SOURAV KUMAR JHA**   - ((https://github.com/Souravjha1999))
+* **VIVEK KUMAR**  - (https://github.com/AhSaymon)
 
 ### Prerequisites
 
